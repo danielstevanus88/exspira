@@ -1,0 +1,66 @@
+.flex-container-vertical {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.flex-container-horizontal {
+    display: flex;
+    flex-direction: row;
+}
+
+.jumbotron{
+    
+    background-image: url('../../public/background_for_exspira.jpg');
+    margin-bottom: 2rem;
+    width: 100%;
+    height: 300px;
+    background-size: contain;
+    
+   
+}
+
+.items {
+    width: 100%;
+}
+.flex-2 {
+    flex: 2;
+}
+
+.flex-3{
+    flex: 3;
+}
+.flex-4 {
+    flex: 4;
+}
+.flex-5 {
+    flex: 5;
+}
+.flex-6{
+    flex: 6;
+}
+
+.recommend-recipe-button {
+    position: fixed;
+    /* position the button at the bottom right corner of the screen */
+    bottom: 30px;
+    right: 100px;
+    border-radius: 50px 50px 0px 50px;
+    z-index: 25;
+    padding: 10px 20px;
+}   
+
+
+.jumbotron .color-green-overlay{
+    /* from public folder jumbotron */
+    height: 100%;
+    background-color: rgba(70, 112, 97, 0.8);
+}
+
+.btn-to-eat{
+    
+    background-color: rgba(70, 112, 97, 0.8);
+    font-weight: 500;
+}

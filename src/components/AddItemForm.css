@@ -1,0 +1,29 @@
+.dark-background {
+    background-color: rgba(0, 0, 0, 0.7);
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    z-index: 2;
+    padding: 10% 25%;
+}
+
+.white-box {
+    padding: 20px 30px;
+    border: 1px solid #fff;
+    border-radius: 10px;
+    background-color: #fff;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+
+.fa-times {
+    font-size: 25px;
+    cursor: pointer;
+}
+
+.add-title {
+    font-size: 30px;
+    font-weight: bold;
+    align-items: center;
+}

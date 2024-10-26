@@ -1,0 +1,23 @@
+.filter-box {
+    background-color: #caede0;
+    border-radius: 10px;
+    /* Card */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    padding: 40px;
+    margin: 10px;
+}
+
+.filter-header{
+    font-size: 20px;
+    font-weight: bold;
+    margin: 10px 0;
+}
+
+.category-checkbox{
+    margin: 10px 0px 0px 20px;
+}
+
+.category-checkbox label{
+    font-size: 16px;
+    margin: 0px 10px;
+}
