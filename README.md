@@ -10,7 +10,7 @@
 ![List of Foods](https://media.licdn.com/dms/image/v2/D4E2DAQHS2fyni175rg/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1730228999980?e=1747087200&v=beta&t=Z2TBqCA2JZS8-dHbY0UN4lm9EINuRfw2q3fBuO2tNaw)
 
 ## Automated Daily Reminder via Email
-![Email]([https://www.linkedin.com/in/danielstevanus/overlay/projects/1502324387/multiple-media-viewer/?profileId=ACoAADm0xpoBdXCfamLpXjklr1OitPxioIzAVcw&treasuryMediaId=1730229375759](https://media.licdn.com/dms/image/v2/D4E2DAQGM_O9YcuoXqg/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1730229336061?e=1747087200&v=beta&t=Pqiu5xGzoK0ywBf4P59jkCJHLHQo7GDvXQTUweygzUA))
+![Email](https://media.licdn.com/dms/image/v2/D4E2DAQGM_O9YcuoXqg/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1730229336061?e=1747087200&v=beta&t=Pqiu5xGzoK0ywBf4P59jkCJHLHQo7GDvXQTUweygzUA)
 
 ## AI Recipe Recommendation
 ![Recipe](https://media.licdn.com/dms/image/v2/D4E2DAQFqFUyGO6NeJQ/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1730228953161?e=1747087200&v=beta&t=KDfkx6AUmHNnoyGDov5wieyCHO7GB7q8qszqsj3qTd8)
