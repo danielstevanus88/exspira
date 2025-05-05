@@ -1,18 +1,18 @@
 # Project Preview
 
-## Home Page
+## 1. Home Page
 ![Home Page](https://media.licdn.com/dms/image/v2/D4E2DAQEZKB-7ClPK0A/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1730228773873?e=1747087200&v=beta&t=xliNgLJonh8tlbkpP-V0DAZdM7dofyyQdpu4xkUneAM)
 
-## Grocery Bill Scanner
+## 2. Grocery Bill Scanner
 ![Grocery Bill Scan](https://media.licdn.com/dms/image/v2/D4E2DAQGD8OWpH5k7IQ/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1730228797590?e=1747087200&v=beta&t=MIoamikp25uSAvOPPDwrgUo-3Dv_iF79OeyCPsfTFEA)
 
-## Food and Expiration Date Manager
+## 3. Food and Expiration Date Manager
 ![List of Foods](https://media.licdn.com/dms/image/v2/D4E2DAQHS2fyni175rg/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1730228999980?e=1747087200&v=beta&t=Z2TBqCA2JZS8-dHbY0UN4lm9EINuRfw2q3fBuO2tNaw)
 
-## Automated Daily Reminder via Email
+## 4. Automated Daily Reminder via Email
 ![Email](https://media.licdn.com/dms/image/v2/D4E2DAQGM_O9YcuoXqg/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1730229336061?e=1747087200&v=beta&t=Pqiu5xGzoK0ywBf4P59jkCJHLHQo7GDvXQTUweygzUA)
 
-## AI Recipe Recommendation
+## 5. AI Recipe Recommendation
 ![Recipe](https://media.licdn.com/dms/image/v2/D4E2DAQFqFUyGO6NeJQ/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1730228953161?e=1747087200&v=beta&t=KDfkx6AUmHNnoyGDov5wieyCHO7GB7q8qszqsj3qTd8)
 # Getting Started with Create React App
 
