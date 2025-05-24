@@ -3,7 +3,7 @@
 ## Project Preview
 
 ### 1. Home Page
-![Home Page](https://media.licdn.com/dms/image/v2/D4E2DAQEZKB-7ClPK0A/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1730228773873?e=1747087200&v=beta&t=xliNgLJonh8tlbkpP-V0DAZdM7dofyyQdpu4xkUneAM)
+![Home Page](https://drive.google.com/uc?export=view&id=1sYF3M0-WbI1SB5sG1DKInJChASUGOFLA)
 
 ### 2. Grocery Bill Scanner
 ![Grocery Bill Scan](https://media.licdn.com/dms/image/v2/D4E2DAQGD8OWpH5k7IQ/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1730228797590?e=1747087200&v=beta&t=MIoamikp25uSAvOPPDwrgUo-3Dv_iF79OeyCPsfTFEA)
