@@ -3,20 +3,19 @@
 ## Project Preview
 
 ### 1. Home Page
-![Home Page](https://drive.google.com/uc?export=view&id=1sYF3M0-WbI1SB5sG1DKInJChASUGOFLA)
-<img src="https://drive.google.com/uc?export=view&id=1sYF3M0-WbI1SB5sG1DKInJChASUGOFLA" width="500" height="300" alt="Home Page">
+<img src="https://drive.google.com/uc?export=view&id=1sYF3M0-WbI1SB5sG1DKInJChASUGOFLA" width="500" height="250" alt="Home Page">
 
 ### 2. Grocery Bill Scanner
-![Grocery Bill Scan](https://drive.google.com/uc?export=view&id=1fjVh6mLJJMZxw4loYAt1xE2Xzjl76GVF)
+<img src="https://drive.google.com/uc?export=view&id=1fjVh6mLJJMZxw4loYAt1xE2Xzjl76GVF" width="500" height="250" alt="Grocery Bill Scan">
 
 ### 3. Food and Expiration Date Manager
-![List of Foods](https://drive.google.com/uc?export=view&id=1BrPQDh-cW0KTdAMR5pvJ56q2m05xa3O5)
+<img src="https://drive.google.com/uc?export=view&id=1BrPQDh-cW0KTdAMR5pvJ56q2m05xa3O5" width="500" height="250" alt="List of Foods">
 
 ### 4. Automated Daily Reminder via Email
-![Email](https://drive.google.com/uc?export=view&id=1BrPQDh-cW0KTdAMR5pvJ56q2m05xa3O5)
+<img src="https://drive.google.com/uc?export=view&id=1BrPQDh-cW0KTdAMR5pvJ56q2m05xa3O5" width="500" height="250" alt="Email Reminder">
 
 ### 5. AI Recipe Recommendation
-![Recipe](https://drive.google.com/uc?export=view&id=1kzRYqtXETeNzNTj_HI86O7GOLDDz38MM)
+<img src="https://drive.google.com/uc?export=view&id=1kzRYqtXETeNzNTj_HI86O7GOLDDz38MM" width="500" height="250" alt="Recipe Recommendation">
 
 
 ## Getting Started with Create React App
