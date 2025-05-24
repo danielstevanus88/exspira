@@ -4,6 +4,7 @@
 
 ### 1. Home Page
 ![Home Page](https://drive.google.com/uc?export=view&id=1sYF3M0-WbI1SB5sG1DKInJChASUGOFLA)
+<img src="https://drive.google.com/uc?export=view&id=1sYF3M0-WbI1SB5sG1DKInJChASUGOFLA" width="500" height="300" alt="Home Page">
 
 ### 2. Grocery Bill Scanner
 ![Grocery Bill Scan](https://drive.google.com/uc?export=view&id=1fjVh6mLJJMZxw4loYAt1xE2Xzjl76GVF)
